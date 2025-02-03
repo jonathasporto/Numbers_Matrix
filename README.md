@@ -1,6 +1,6 @@
 # Projeto de Controle de Matriz LED com RP2040
 
-## Link Link pra o vídeo: [AQUI](https://youtu.be/SnG9bbeV3jY)
+## Link pra o vídeo: [AQUI](https://youtu.be/SnG9bbeV3jY)
 
 Projeto para controle de uma matriz LED 5x5 WS2812 utilizando o microcontrolador RP2040 (BitDogLab), implementando:
 - Controle de LEDs endereçáveis
